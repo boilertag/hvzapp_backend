@@ -1,6 +1,7 @@
 Here is the backend server setup for the app. Included is a vagrant file via the scotchbox folder for local testing and development. This readme walks through the setup steps and what the server will do. 
 
 SETUP:
+
     1. Download Webstorm/Atom/Brackets ==> https://www.jetbrains.com/webstorm/ 
     2. Download Virtual Box ==> https://www.virtualbox.org/wiki/Downloads
     3. Download Vagrant ==> https://www.vagrantup.com/
